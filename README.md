@@ -17,12 +17,15 @@ You need the Open Weather api key, for this you must create an account at: https
 ## Screenshots
 
 - Default view
+
   ![Default view](https://github.com/JuanRosero97/react-weather/blob/master/screenshots/sc1.png)
 
 - Change unit of measurement
+
   ![Change unit of measurement](https://github.com/JuanRosero97/react-weather/blob/master/screenshots/sc2.png)
 
 - Change City
+
   ![Change City](https://github.com/JuanRosero97/react-weather/blob/master/screenshots/sc3.png)
 
 ## Available Scripts
