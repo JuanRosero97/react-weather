@@ -4,8 +4,8 @@ This project presents real-time weather information obtained by consuming the Op
 
 ## Environment
 
-REACT_APP_WEATHER_URL = https://api.openweathermap.org/data/2.5/
-REACT_APP_WEATHER_API_KEY =
+- REACT_APP_WEATHER_URL = https://api.openweathermap.org/data/2.5/
+- REACT_APP_WEATHER_API_KEY =
 
 You need the Open Weather api key, for this you must create an account at: https://openweathermap.org/
 
@@ -16,9 +16,14 @@ You need the Open Weather api key, for this you must create an account at: https
 
 ## Screenshots
 
-![Default view](https://github.com/JuanRosero97/react-weather/blob/master/screenshots/sc1.png)
-![Change unit of measurement](https://github.com/JuanRosero97/react-weather/blob/master/screenshots/sc2.png)
-![Change City](https://github.com/JuanRosero97/react-weather/blob/master/screenshots/sc3.png)
+- Default view
+  ![Default view](https://github.com/JuanRosero97/react-weather/blob/master/screenshots/sc1.png)
+
+- Change unit of measurement
+  ![Change unit of measurement](https://github.com/JuanRosero97/react-weather/blob/master/screenshots/sc2.png)
+
+- Change City
+  ![Change City](https://github.com/JuanRosero97/react-weather/blob/master/screenshots/sc3.png)
 
 ## Available Scripts
 
